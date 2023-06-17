@@ -2,6 +2,12 @@
 
 > Version 6 – the iconic SVG, font, and CSS framework
 
+### HOW TO USE
+HTML CODE<br>
+```<link href="https://cdn.jsdelivr.net/gh/ZeskGarcia/fa-v6@master/css/all.min.css" rel="stylesheet" type="text/css" />```
+That code you just need to add it in the head part of your html code
+
+
 The internet's most popular icon toolkit has been redesigned and built from
 scratch. On top of this, features like icon font ligatures, an SVG framework,
 official NPM packages for popular frontend libraries like React, and access to
