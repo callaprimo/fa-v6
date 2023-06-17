@@ -4,7 +4,7 @@
 
 ### HOW TO USE
 HTML CODE<br>
-```<link href="https://cdn.jsdelivr.net/gh/ZeskGarcia/fa-v6@master/css/all.min.css" rel="stylesheet" type="text/css" />```
+```<link href="https://cdn.jsdelivr.net/gh/ZeskGarcia/fa-v6@master/css/all.min.css" rel="stylesheet" type="text/css" />```<br>
 That code you just need to add it in the head part of your html code
 
 
